@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharma-aarushi
-- 👀 I’m interested in data science and analysong financial data
-- 🌱 I’m currently learning python
+- 👀 I’m interested in data science and data analytics and insights
+- 🌱 I’m currently learning python and improving my skills in java
 - 💞️ I’m looking to collaborate on financial analyses projects
 
 <!---
