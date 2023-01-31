@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aarushi Sharma, a senior at Barnard College, Columbia University. I am pursuing my BA in Economics and CS
+- 👋 Hi, I’m Aarushi Sharma, a senior at Barnard College, Columbia University. I am pursuing my BA in CS and Economics
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning C and Python, and improving my skills in Java
 - :email: You can reach me at as6322@barnard.edu or s.aarushi@aol.com
