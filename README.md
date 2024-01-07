@@ -4,7 +4,7 @@
 - :email: You can reach me at as6322@columbia.edu or s.aarushi@aol.com
 - :file_folder: You can view my resume here: https://www.dropbox.com/s/qen5ji1l0b6wcg3/Aarushi%20Sharma%20Resume%20Jan%202023.pdf?dl=0
 - :link: My linkedin can be accessed here: www.linkedin.com/in/sharmaaarushi
-
+- Note: Some of my repositories covering code from classes including Artificial Intelligence, Natural Language Processing, Systems Programming in C and Data Structures is private due to similar assignments beign taught in these classes presently but please feel free to request access to view the same!
 <!---
 sharma-aarushi/sharma-aarushi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
