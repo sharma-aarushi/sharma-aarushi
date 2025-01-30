@@ -2,6 +2,7 @@
 - 👀 I’m interested in AI and Computer Vision
 - :email: You can reach me at s.aarushi@aol.com 
 - :link: My linkedin can be accessed here: www.linkedin.com/in/sharmaaarushi
+- 📹: Demo videos of some of my projects can be found here: 
   
 - #### **Note**: Some of my repositories covering code from classes including Artificial Intelligence, Natural Language Processing, Systems Programming in C and Data Structures is private due to similar assignments beign taught in these classes presently but please feel free to request access to view the same!
 <!---
