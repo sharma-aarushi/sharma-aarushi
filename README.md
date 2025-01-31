@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aarushi Sharma, a MS student at Columbia University studying CS (specializing in ML). I graduated from Barnard College, Columbia University with a BA in CS (specializing in Intelligent Systems) and Economics.
-- 👀 I’m interested in AI and Computer Vision
+- 👀 I’m interested in Machine Learning and Computer Vision
 - :email: You can reach me at s.aarushi@aol.com 
 - :link: My linkedin can be accessed here: www.linkedin.com/in/sharmaaarushi
 - 📹: Demo videos of some of my projects can be found here: 
